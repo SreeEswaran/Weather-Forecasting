@@ -51,3 +51,24 @@ const apiKey = "your_actual_api_key_here";
 ```
 
 ⚠️ Important: The app won't work without a valid API key. Make sure you replace the placeholder with your real key.
+
+🔧 Technologies Used
+ - HTML5
+ - CSS3
+ - JavaScript
+ - OpenWeatherMap API
+
+📜 License
+This project is licensed under the MIT License.
+
+👤 Author
+Made with 💙 by Sree Deekshitha Yerra
+
+```yaml
+Let me know if you also want:
+- Deployment instructions for **GitHub Pages** or **Netlify** or **Vercel**
+- A `LICENSE` file
+- A demo GIF
+
+Happy coding! ☁️
+```
