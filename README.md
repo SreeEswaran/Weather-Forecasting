@@ -6,7 +6,7 @@ A simple, responsive weather forecasting web application built using **HTML**, *
 <!--
 ## 🔍 Preview
 
-![Preview Screenshot](preview.png) <!-- Optional: Add your screenshot-->-->
+![Preview Screenshot](preview.png) <!-- Optional: Add your screenshot-->
 
 ## ✨ Features
 
